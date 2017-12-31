@@ -1,0 +1,33 @@
+runtime: php55
+api_version: 1
+env: standard
+
+handlers:
+- url: /
+  script: home.php
+
+- url: /index\.html
+  script: home.php
+
+- url: /stylesheets/styles.php
+  script: /stylesheets/styles.php
+
+- url: /(.*\.(gif|png|jpg))$
+  static_files: static/\1
+  upload: static/.*\.(gif|png|jpg)$
+
+#- url: /stylesheets
+#  static_dir: stylesheets
+
+# for local
+#- url: /stylesheets
+#  static_dir: stylesheets
+
+- url: /admin/.*
+  script: admin.php
+  login: admin
+
+- url: /.*
+  script: not_found.php
+
+
