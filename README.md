@@ -19,6 +19,12 @@ Animate GIF Description of a Keystone
 
 ![Animate GIF Description of a Keystone](https://i.imgur.com/ifUhR16.gif)
 
+# Note
+
+I created this for "The Riot Games API Challenge 2017".
+
+[The Riot Games API Challenge 2017](https://discussion.developer.riotgames.com/articles/4395/the-riot-games-api-challenge-2017.html "The Riot Games API Challenge 2017")
+
 # Me
 
 Playing Games and Drawing.
