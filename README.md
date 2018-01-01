@@ -29,4 +29,4 @@ League of Legends (JP) ulg
 
 [pixiv ulg](https://pixiv.me/ulg "pixiv ulg")
 
-[deviantArt ulg](https://ulggg.deviantart.com/ "deviantArt ulg")
+[deviantArt ulggg](https://ulggg.deviantart.com/ "deviantArt ulggg")
