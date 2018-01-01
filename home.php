@@ -1,5 +1,5 @@
 <?php
-$api_key = 'RGAPI-20d46781-4094-4e67-8bd7-3f256e235922';
+$api_key = '';
 $region = 'jp1';
 $name = 'ulg';
 
