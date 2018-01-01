@@ -117,11 +117,11 @@ foreach($array as $item) {
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     <!-- Optional CSS -->
     <link rel="stylesheet" href="stylesheets/styles.php" media="screen">
-    <title>LoL Keystone Desc Img</title>
+    <title>LoL Keystones Desc Img</title>
   </head>
   <body>
     <div class="title">
-      <h6 class="lead text-center text-light">LoL Keystone Desc Img</h6>
+      <h6 class="lead text-center text-light">LoL Keystones Desc Img</h6>
     </div>
 
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -141,7 +141,7 @@ foreach($array as $item) {
           foreach($keystones as  $key => $keystone) {
         ?>
         <div class="carousel-item<?php if($key == 0) { echo " active";} ?>">
-          <img class="d-block w-100" src="img/<?php echo $keystone["id"]; ?>.png" alt="<?php echo $keystone["name"] ?>">
+          <img class="d-block w-100" src="img/<?php echo $keystone["id"]; ?>.gif" alt="<?php echo $keystone["name"] ?>">
           <div class="carousel-caption">
             <h3><?php echo $keystone["name"] ?></h3>
             <p><?php echo $keystone["shortDesc"] ?></p>
@@ -160,6 +160,15 @@ foreach($array as $item) {
         <span class="sr-only">Next</span>
       </a>
     </div>
+    
+    
+<div class="container">
+  <div class="text-right mt-1">
+    <a href="https://twitter.com/ulg_" class="btn btn-outline-info btn-sm" target="_blank">Twitter @ulg_</a> <a href="https://github.com/ulgg/LoLKeystonesDescImg" class="btn btn-outline-info btn-sm" target="_blank">GitHub ulgg</a>
+  </div>
+</div>
+
+    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

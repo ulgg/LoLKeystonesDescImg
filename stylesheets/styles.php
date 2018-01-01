@@ -33,6 +33,10 @@
   left:0;
 }
 
+.carousel-item {
+//    .transition(.5s ease-in-out left);
+}
+
 /* Make the image fully responsive */
 .carousel-inner img {
     width: 100%;
