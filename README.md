@@ -27,6 +27,6 @@ League of Legends (JP) ulg
 
 [Twitter @ulg_](https://twitter.com/ulg_ "Twitter @ulg_")
 
-[pixiv @ulg](https://pixiv.me/ulg "pixiv ulg")
+[pixiv ulg](https://pixiv.me/ulg "pixiv ulg")
 
-[deviantArt @ulg](https://ulggg.deviantart.com/ "deviantArt ulg")
+[deviantArt ulg](https://ulggg.deviantart.com/ "deviantArt ulg")
