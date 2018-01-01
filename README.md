@@ -1,6 +1,6 @@
 # Project Name
 
-LoLKeystonesDescImg
+LoL Keystones Desc Img
 
 # Description
 
