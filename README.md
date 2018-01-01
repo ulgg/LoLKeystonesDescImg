@@ -11,7 +11,7 @@ http://ulgapp20171224.appspot.com/
 
 # Sample Image
 
-PAge Image
+Page Image
 
 ![Site Image](https://i.imgur.com/4zIzMy4.png)
 
