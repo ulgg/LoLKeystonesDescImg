@@ -19,6 +19,13 @@ Animate GIF Description of a Keystone
 
 ![Animate GIF Description of a Keystone](https://i.imgur.com/ifUhR16.gif)
 
+# Work In Progress
+
+[(1)Drawing | Learning Keystones | LoL JP Silver 5](https://www.youtube.com/watch?v=WHZdwYJwI_w)
+[(2)Drawing | Learning Keystones | LoL JP Silver 5](https://www.youtube.com/watch?v=U1ANNUVio7E)
+[(3)Drawing | Learning Keystones | LoL JP Silver 5](https://www.youtube.com/watch?v=fLPWoy2PNMg)
+[(4)Drawing | Learning Keystones | LoL JP Silver 5](https://www.youtube.com/watch?v=0VGzQMxl3nA)
+
 # Note
 
 I created this for challenging to "The Riot Games API Challenge 2017".
