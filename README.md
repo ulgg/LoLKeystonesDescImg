@@ -35,6 +35,13 @@ I created this for challenging to "The Riot Games API Challenge 2017".
 
 [The Riot Games API Challenge 2017](https://discussion.developer.riotgames.com/articles/4395/the-riot-games-api-challenge-2017.html "The Riot Games API Challenge 2017")
 
+# Result
+
+This has been selected as EDUCATION HONORABLE MENTIONS. Thank you!
+
+[https://developer.riotgames.com/api-challenge-december2017.html](https://developer.riotgames.com/api-challenge-december2017.html "EDUCATION HONORABLE MENTIONS")
+
+
 # Me
 
 Playing Games and Drawing.
