@@ -55,4 +55,4 @@ League of Legends (JP) ulg
 
 [deviantArt ulggg](https://ulggg.deviantart.com/ "deviantArt ulggg")
 
-[witch ulg_](https://www.twitch.tv/ulg_ "Twitch ulg_")
+[Twitch ulg_](https://www.twitch.tv/ulg_ "Twitch ulg_")
