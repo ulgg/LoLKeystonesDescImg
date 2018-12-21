@@ -39,7 +39,7 @@ I created this for challenging to "The Riot Games API Challenge 2017".
 
 This has been selected as EDUCATION HONORABLE MENTIONS. Thank you!
 
-[https://developer.riotgames.com/api-challenge-december2017.html](https://developer.riotgames.com/api-challenge-december2017.html "EDUCATION HONORABLE MENTIONS")
+[EDUCATION HONORABLE MENTIONS](https://developer.riotgames.com/api-challenge-december2017.html "EDUCATION HONORABLE MENTIONS")
 
 [Riot Games Twitter](https://twitter.com/riotgames/status/952993889291513859 "EDUCATION HONORABLE MENTIONS")
 
