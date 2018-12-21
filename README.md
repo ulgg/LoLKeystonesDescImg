@@ -41,6 +41,7 @@ This has been selected as EDUCATION HONORABLE MENTIONS. Thank you!
 
 [https://developer.riotgames.com/api-challenge-december2017.html](https://developer.riotgames.com/api-challenge-december2017.html "EDUCATION HONORABLE MENTIONS")
 
+[Riot Games Twitter](https://twitter.com/riotgames/status/952993889291513859 "EDUCATION HONORABLE MENTIONS")
 
 # Me
 
@@ -53,3 +54,5 @@ League of Legends (JP) ulg
 [pixiv ulg](https://pixiv.me/ulg "pixiv ulg")
 
 [deviantArt ulggg](https://ulggg.deviantart.com/ "deviantArt ulggg")
+
+[witch ulg_](https://www.twitch.tv/ulg_ "Twitch ulg_")
